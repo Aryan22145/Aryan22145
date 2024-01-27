@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm Aryan Sai, a Web Developer and backend Develop
 
 - 📧 [Email](mailto:aryansaiboddu@gmail.com)
 - 🐦 [Twitter](https://twitter.com/aryansaiboddu)
-- 💼 [LinkedIn](https://www.linkedin.com/aryansaiboddu/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/aryansaiboddu/)
 
 ## Projects
 
