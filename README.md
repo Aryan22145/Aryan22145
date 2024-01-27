@@ -1,6 +1,5 @@
-# Your GitHub Profile
 
-## Hello, World! 👋
+# Hello, World! 👋
 
 Welcome to my GitHub profile! I'm Aryan Sai, a Web Developer and backend Developer. Here, you'll find some of the projects I'm working on.
 
