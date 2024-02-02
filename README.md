@@ -1,41 +1,13 @@
+<h1 align="center">Hi 👋, I'm Aryan Sai Boddu</h1>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
-# Hello, Everyone! 👋
+- 📫 How to reach me **aryansaiboddu4@gmail.com**
 
-Welcome to my GitHub profile! I'm Aryan Sai, a Web Developer and backend Developer. Here, you'll find some of the projects I'm working on.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/aryansaiboddu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryansaiboddu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aryansaiboddu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryansaiboddu" height="30" width="40" /></a>
+</p>
 
-## About Me
-
-- 📧 [Email](mailto:aryansaiboddu@gmail.com)
-- 🐦 [Twitter](https://twitter.com/aryansaiboddu)
-- 💼 [LinkedIn](https://www.linkedin.com/in/aryansaiboddu/)
-
-## Projects
-
-### Project 1: Hospital Management System
-
-This is software that allows the user to register for an appointment with the doctor without human intervention.
-
-This is automated that way that it asks the user for some inputs and after entering all the fields the appointment for the user will be booked.
-
-- [GitHub Repository](https://github.com/Aryan22145/Hospital-Management-System)
-- [Live Demo](https://www.youtube.com/watch?v=okV5jH0sa9Q)
-
-### Project 2: Payment Gateway Integration
-
-Description of the project. Highlight key features and technologies used.
-
-- [GitHub Repository](https://github.com/Aryan22145/Payment-Integration-Gateway)
-
-
-
-## Skills
-
-- Programming Languages: Python, HTML, CSS, JavaScript
-
-
-## How to Reach Me
-
-Feel free to reach out if you have any questions or just want to connect.
-
-- 📧 Email: aryansaiboddu@gmail.com
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
